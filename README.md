@@ -42,7 +42,7 @@ To replicate or explore this work, make sure to have Python 3.x installed. You c
 
 ```bash
 # Clone this repository
-git clone https://github.com/Sadam-Barkat/Data_Science_AI_Learning.git
+git clone https://github.com/Sadam-Barkat/Data_Science_And_Ai.git
 
 # Navigate to the directory
 cd Data_Science_AI_Learning
